@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-trial/static/css/main.e6c13ad2.css",
+    "main.js": "/react-trial/static/js/main.4cabe952.js",
+    "index.html": "/react-trial/index.html",
+    "main.e6c13ad2.css.map": "/react-trial/static/css/main.e6c13ad2.css.map",
+    "main.4cabe952.js.map": "/react-trial/static/js/main.4cabe952.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4cabe952.js"
+  ]
+}
